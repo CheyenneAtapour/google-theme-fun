@@ -1,0 +1,23 @@
+{
+  "manifest_version": 2,
+  "name": "Metallic Rainbow Theme",
+  "version": "1.0",
+  "theme": {
+    "images" : {
+      "theme_frame": "./rainbow_frame.png",
+      "theme_toolbar": "./rainbow_toolbar.png",
+      "theme_ntp_background": "./background.png"
+    },
+    "colors": {
+      "frame": [255, 255, 255],
+      "toolbar": [255, 255, 255],
+      "tab_text": [0, 0, 0]
+    },
+    "properties": {
+      "ntp_background_alignment": "center"
+    },
+    "tints": {
+      "buttons": [0.5, 0.5, 0.5]
+    }
+  }
+}
